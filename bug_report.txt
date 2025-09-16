@@ -1,0 +1,14 @@
+Bug ID: 1920664
+Title: Firefox for Windows ARM64 randomly hangs and causes crash in QCDX Display Driver
+Product: Core
+Component: Graphics: WebRender
+Version: Firefox 130
+Platform: ARM64, Windows 11
+Type: Defect
+Priority: P1
+Severity: S3
+Status: UNCONFIRMED
+Reporter: zeroaurora233
+
+Description:
+Firefox on Windows ARM64 systems occasionally hangs and causes a crash in the QCDX display driver when rendering graphics. This issue occurs randomly and affects system stability.
