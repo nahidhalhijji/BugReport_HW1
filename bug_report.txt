@@ -1,3 +1,25 @@
+Stages:
+
+New – Tester logs the bug.
+
+Assigned – Lead assigns it to a developer.
+
+Open – Developer starts working on it.
+
+Fixed – Developer applies a fix.
+
+Retest – Tester checks if the fix works.
+
+Verified – Bug is confirmed as solved.
+
+Closed – Bug is permanently resolved.
+
+
+
+
+
+
+
 Bug ID: 1920664
 Title: Firefox for Windows ARM64 randomly hangs and causes crash in QCDX Display Driver
 Product: Core
